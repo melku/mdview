@@ -1,5 +1,7 @@
 # mdview.rb
 
+A small web server to render and navigate Markdown pages in a directory.
+
 ## Usage
 
 ~~~
